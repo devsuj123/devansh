@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devansh
-- 👀 I’m interested in creating ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+👋 Hi, I’m @devansh
+👀 I’m interested in exploring every field in CyberSecurity specially Cloud Security.
+🌱 I’m currently learning about different Exploits
+💞️ I’m looking to connect on LinkedIn
+📫 How to reach me https://www.linkedin.com/in/devansh-patel-734981214
 
 <!---
 devansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
